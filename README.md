@@ -1,2 +1,0 @@
-# KudaTerbang
-Kuda Terbang Melayang
