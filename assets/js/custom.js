@@ -1,33 +1,6 @@
 $(document).ready(function(){
 
-	"use strict";
 
-    
-
-        /*==================================
-
-* Author        : "ThemeSine"
-
-* Template Name : Travel HTML Template
-
-* Version       : 1.0
-
-==================================== */
-
-
-        /*=========== TABLE OF CONTENTS ===========
-
-1. Scroll To Top
-2. Range js
-3. Countdown timer
-4. owl carousel
-5. datepicker
-6. Smooth Scroll spy
-7. Animation support
-======================================*/
-    
-
-    // 1. Scroll To Top 
 
 		$(window).on('scroll',function () {
 
